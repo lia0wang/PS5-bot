@@ -1,8 +1,11 @@
 # ps5Bot
-A bot can buy ps5 automatically 
+A bot can buy ps5 automatically.
+The ps5 in Australia is very popular. 
+This bot aims to help those poor kids who cannot have a ps5.
 
 ## Building Environment
 ```pip3 install selenium```
+
 ```pip3 install webdriver_manager```
 
 ## Demo
