@@ -3,6 +3,7 @@ A bot can buy ps5 automatically.
 The ps5 in Australia is very popular. 
 This bot aims to help those poor kids who cannot have a ps5.
 
+Run ```python3 ps5Bot.py``` to buy your own one!!
 ## Building Environment
 ```pip3 install selenium```
 
